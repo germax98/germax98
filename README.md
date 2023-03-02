@@ -16,13 +16,13 @@ const gerMax= {
 
 
 <p align="center ">
-<a href=" www.linkedin.com/in/max-wölfel-204777223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="max wölfel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/max-wölfel-204777223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/max-wölfel-204777223" height="30" width="40" /></a>
 <a href="https://www.instagram.com/visualart.mw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="visualart.mw" height="30" width="40" /></a>
 <a href="https://www.behance.net/maxwoelfel96a598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="max wölfel" height="30" width="40" /></a>
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=germax98&show_icons=true&locale=en&layout=compact" alt="germax98" /></p>
 </p>
-
+ <h3 align="center ">I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</h3>
 
 
 
